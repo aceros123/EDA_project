@@ -1,0 +1,1 @@
+Este proyecto tiene como objetivo el analisis de datos para la obtención de patrones, tendencias o anomalias en los datos. 
